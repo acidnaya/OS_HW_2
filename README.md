@@ -35,3 +35,7 @@ gcc program_4.c -o program
 
 ### Решение (5 балла)
 Неименованные POSIX семафоры.
+
+### Примеры работы программы
+![Пример 1](https://github.com/acidnaya/OS_HW_2/blob/main/images/example_1.jpg)\
+![Пример 1.1](https://github.com/acidnaya/OS_HW_2/blob/main/images/example_2.jpg)
